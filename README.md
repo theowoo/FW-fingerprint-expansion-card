@@ -10,8 +10,8 @@ The 3D CAD drawing is based on the printable drawing provided by Framework. Here
 
 - 3D CAD drawing `ExpansionCard_FingerprintReader.stl`
   - Black PLA (0.2 mm layer, 15% infill)
-- Chipsailing CS971 fingerprint reader ([AliExpress](https://aliexpress.com/item/1005008493041334.html))
-- USB-A to USB-C adapter ([Ebay](https://www.ebay.com/itm/316027558716))
+- Chipsailing CS971 fingerprint reader - 11€ ([AliExpress](https://aliexpress.com/item/1005008493041334.html))
+- USB-A to USB-C adapter - 4€ ([Ebay](https://www.ebay.com/itm/316027558716))
 
 ## Instructions
 
