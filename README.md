@@ -38,7 +38,7 @@ From Framework:
 
 Tested instructions for Fedora 42 can be found here: https://github.com/ddlsmurf/libfprint-CS9711
 
-Resources for other distros: https://gitlab.freedesktop.org/libfprint/libfprint/-/issues/610#note_2357409
+Resources for other distros: https://gitlab.freedesktop.org/libfprint/libfprint/-/issues/610
 
 <a href='https://ko-fi.com/Y8Y21MUL41' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
